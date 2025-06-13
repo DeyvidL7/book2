@@ -91,7 +91,7 @@ lib/
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+© 2024 David Aruquipa. Todos los derechos reservados.
 
 ---
 
